@@ -36,3 +36,6 @@ python parser.py [-o OUTPUT_FILE] input_file
 
 ## AUTHORS
 [Lee-W](https://github.com/Lee-W)
+
+## License
+MIT
